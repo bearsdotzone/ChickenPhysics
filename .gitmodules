@@ -1,0 +1,6 @@
+[submodule "ChickenPhysicsForge"]
+	path = ChickenPhysicsForge
+	url = https://github.com/bearsdotzone/ChickenPhysicsForge
+[submodule "ChickenPhysicsFabric"]
+	path = ChickenPhysicsFabric
+	url = https://github.com/bearsdotzone/ChickenPhysicsFabric
